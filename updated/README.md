@@ -1,4 +1,4 @@
-git clone https://github.com/9890ABHI/ansi
+git clone https://github.com/manojz4/CDAC_PROJECT.git
 
 chmod -R +x ansi
 
